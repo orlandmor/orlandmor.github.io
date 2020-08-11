@@ -13,3 +13,7 @@ Desde 2009 desenvolvo projetos mobile, já trabalhei inclusive com a plataforma 
 Algumas tecnologias, linguagens, ferramentas e habilidades
 
 Atualmente trabalho utilizando Flutter/Dart, Kotlin, Javascript, TypeScript, Swift,Swift UI, ReactJs, Angular, PWA, AMP, Firebase e muitas outras coisas.
+
+# Página no Google Play
+
+https://play.google.com/store/apps/dev?id=7824934732121255072 [https://play.google.com/store/apps/dev?id=7824934732121255072]
