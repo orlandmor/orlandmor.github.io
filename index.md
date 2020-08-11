@@ -16,4 +16,4 @@ Atualmente trabalho utilizando Flutter/Dart, Kotlin, Javascript, TypeScript, Swi
 
 # Página no Google Play
 
-https://play.google.com/store/apps/dev?id=7824934732121255072 [https://play.google.com/store/apps/dev?id=7824934732121255072]
+https://play.google.com/store/apps/dev?id=7824934732121255072
